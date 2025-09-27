@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../netlify"
+		},
+		{
+			"path": "../../public"
+		},
+		{
+			"path": "../../server"
+		},
+		{
+			"path": "../../shared"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "client"
+	}
+}
